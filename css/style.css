@@ -1,0 +1,16 @@
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzVAHDh0jO-TzvWnC3IO4NVixa4qucN7YLD2N4wEj0JDYf57L0n7Xvh-5ilSjKiF5AwFA&usqp=CAU");
+}
+.psw{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:calc(100vh - 20px);
+}
+#password{
+  background-color: rgb(42, 170, 208);
+  color: white;
+  font-weight: bold;
+  border-radius: 20px;
+  padding: 10px;
+}
